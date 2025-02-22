@@ -6,13 +6,13 @@
 /*   By: okuilboe <okuilboe@student.codam.com>        +#+                     */
 /*                                                   +#+                      */
 /*   Created: 2025/02/22 11:46:40 by okuilboe      #+#    #+#                 */
-/*   Updated: 2025/02/22 18:02:06 by okuilboe      ########   odam.nl         */
+/*   Updated: 2025/02/22 17:25:10 by okuilboe      ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
 void	ft_putchar(char x);
 void	assemble_line(int x, char first_char, char body_char, char last_char);
-new version
+
 void	rush(int x, int y)
 {
 	char	*first_line;
